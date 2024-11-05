@@ -1,5 +1,5 @@
 # Personal Finance Tracker
-
+Note: This is a newly completed project and will be fully documented soon!
 ## Overview
 The Personal Finance Tracker is a full-stack web application that helps users manage their finances by tracking expenses and predicting future spending patterns using machine learning.
 

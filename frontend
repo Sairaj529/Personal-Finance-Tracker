@@ -1,0 +1,8 @@
+frontend/
+|-- src/
+|   |-- components/
+|   |   |-- ExpenseForm.js
+|   |   |-- App.js
+|-- public/
+|   |-- index.html
+|-- package.json
